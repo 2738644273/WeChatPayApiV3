@@ -1,0 +1,15 @@
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\bin\Debug\net6.0\WeChatApiBase.deps.json
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\bin\Debug\net6.0\WeChatApiBase.dll
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\bin\Debug\net6.0\WeChatApiBase.pdb
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\WeChatApiBase.csproj.AssemblyReference.cache
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\WeChatApiBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\WeChatApiBase.AssemblyInfoInputs.cache
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\WeChatApiBase.AssemblyInfo.cs
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\WeChatApiBase.csproj.CoreCompileInputs.cache
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\staticwebassets.build.json
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\staticwebassets.development.json
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\scopedcss\bundle\WeChatApiBase.styles.css
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\WeChatApiBase.dll
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\refint\WeChatApiBase.dll
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\WeChatApiBase.pdb
+E:\Project\TestProject\InvoiceManager\WeChatApiBase\obj\Debug\net6.0\ref\WeChatApiBase.dll

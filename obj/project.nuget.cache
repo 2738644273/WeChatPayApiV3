@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QrIZ/YJN7/FhuasDPHFmzwDsAjBb7o7Scw/0RRsK1YP1CgmC5cOeG2/Z4h85jbZEkL+HiCue5rB9WLpVojO3Gw==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\TestProject\\InvoiceManager\\WeChatApiV3\\WeChatApiV3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiao\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
+    "C:\\Users\\Xiao\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

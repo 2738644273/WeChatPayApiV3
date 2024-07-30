@@ -50,7 +50,7 @@ public class VertifySignBaseService : IVertifySignBaseService
                 var response = await _weChatV3Helper.GetRequestAsync(_certUrl, certificates);
                 string body = await response.Content.ReadAsStringAsync();
                 certs = JsonConvert.DeserializeObject<CertificatesRet>(body); //证书列表
-                _cacheService.AddObject(WeChatCertificate, certs);
+                _cacheService.AddObject(WeChatCertificate, certs,11*3600);
             }
 
             #endregion
